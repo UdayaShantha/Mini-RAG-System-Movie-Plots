@@ -191,10 +191,6 @@ Try these questions:
 **Issue**: Out of memory
 - **Solution**: Reduce `num_movies` parameter in main()
 
-## License
-
-MIT License - Feel free to use for learning and projects.
-
 ## Contact
 
 For questions about this implementation, please open an issue on GitHub.
