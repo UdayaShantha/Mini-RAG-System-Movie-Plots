@@ -114,7 +114,7 @@ FAISS (Facebook AI Similarity Search):
 - Efficient for datasets of this size
 
 ### 4. LLM Integration
-OpenAI GPT-3.5-turbo:
+OpenAI GPT-4o:
 - Generates natural language answers
 - Uses retrieved contexts
 - Fallback to simple extraction if API unavailable
