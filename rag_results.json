@@ -1,0 +1,38 @@
+[
+  {
+    "query": "What movie features an artificial intelligence system?",
+    "result": {
+      "answer": "Based on the movie 'Youth's Endearing Charm': The film is about a court case and embezzlement....",
+      "contexts": [
+        "Youth's Endearing Charm: The film is about a court case and embezzlement....",
+        "The Immigrant: The film begins aboard a steamer crossing the Atlantic Ocean, and initially showcases the misadventures of an unnamed immigrant, the Tramp (Chaplin) who finds himself in assorted mischief while, among...",
+        "One A.M.: The film opens with a scene of a wealthy young man (Chaplin) arriving at his house in a taxi late at night after a night of heavy drinking. He struggles with the car door when exiting the car and then..."
+      ],
+      "reasoning": "Searched through 353 plot chunks. Retrieved top 3 most relevant contexts from movies: The Immigrant, Youth's Endearing Charm, One A.M.. Used these contexts to form an answer."
+    }
+  },
+  {
+    "query": "Tell me about a movie with time travel",
+    "result": {
+      "answer": "Based on the movie 'From Leadville to Aspen: A Hold-Up in the Rockies': The film features a train traveling through the Rockies and a hold up created by two thugs placing logs on the line. They systematically rob the wealthy occupants at gunpoint and then make their getaway along the tracks and later by a hi-jacked horse and cart....",
+      "contexts": [
+        "From Leadville to Aspen: A Hold-Up in the Rockies: The film features a train traveling through the Rockies and a hold up created by two thugs placing logs on the line. They systematically rob the wealthy occupants at gunpoint and then make their getaw...",
+        "Youth's Endearing Charm: The film is about a court case and embezzlement....",
+        "The Suburbanite: The film is about a family who move to the suburbs, hoping for a quiet life. Things start to go wrong, and the wife gets violent and starts throwing crockery, leading to her arrest...."
+      ],
+      "reasoning": "Searched through 353 plot chunks. Retrieved top 3 most relevant contexts from movies: Youth's Endearing Charm, From Leadville to Aspen: A Hold-Up in the Rockies, The Suburbanite. Used these contexts to form an answer."
+    }
+  },
+  {
+    "query": "Which movie has a character named HAL 9000?",
+    "result": {
+      "answer": "Based on the movie 'Amarilly of Clothes-Line Alley': Set in San Francisco during the early 1900s, the film revolves around Amarilly (Mary Pickford), the daughter of a widowed scrubwoman. Amarilly is proud of her hard-working Irish family, and takes care of her five roughhouse brothers. She is engaged to bartender Terry McGowan (William Scott), who get...",
+      "contexts": [
+        "Amarilly of Clothes-Line Alley: Set in San Francisco during the early 1900s, the film revolves around Amarilly (Mary Pickford), the daughter of a widowed scrubwoman. Amarilly is proud of her hard-working Irish family, and takes care...",
+        "In the Land of the Head Hunters: The following plot synopsis was published in conjunction with a 1915 showing of the film at Carnegie Hall:...",
+        "Happy Though Married: As described in a film magazine,[2] Jim Montjoy (MacLean), who is engaged to Millicent Lee (Bennett), gowes with his brother Jim (Cooley) to Mexico to make their fortunes. Jim falls in love with a Mex..."
+      ],
+      "reasoning": "Searched through 353 plot chunks. Retrieved top 3 most relevant contexts from movies: Amarilly of Clothes-Line Alley, In the Land of the Head Hunters, Happy Though Married. Used these contexts to form an answer."
+    }
+  }
+]
